@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1020781012845-3u2fkr29f3ln5vua8gi0k671kh7h5tf3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1020781012845-3u2fkr29f3ln5vua8gi0k671kh7h5tf3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHTSQJI-cKEFznnTNGDstW6SDbCOQHq7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1020781012845</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sampleFacebook.myApp</string>
+	<key>PROJECT_ID</key>
+	<string>samplefacebook-eac44</string>
+	<key>STORAGE_BUCKET</key>
+	<string>samplefacebook-eac44.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1020781012845:ios:83f07d5d2f01f751</string>
+	<key>DATABASE_URL</key>
+	<string>https://samplefacebook-eac44.firebaseio.com</string>
+</dict>
+</plist>
